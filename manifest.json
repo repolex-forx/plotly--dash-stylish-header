@@ -1,0 +1,25 @@
+{
+  "manifest_version": "1.0",
+  "org": "plotly",
+  "repo": "dash-stylish-header",
+  "versions": [
+    {
+      "commit": "86f4faaa937852696983a0ed9cafc521e3bb022c",
+      "parsed_at": "2026-11-07T08:00:04.038524+00:00",
+      "filetree": "filetree/86f4faaa937852696983a0ed9cafc521e3bb022c.nq.gz",
+      "blobs": [
+        "blob/73ffaaabd5e4a84b6fb6d39933bff571d29b3706.nq.gz",
+        "blob/8ff2924ed2523b2c2d9e493117887d72181a110d.nq.gz",
+        "blob/69b6ae1ca056f8e4954371966908d4a82dd32f72.nq.gz",
+        "blob/167025233296ea7fd508ab7e656d6add5de16fca.nq.gz",
+        "blob/2af69c873479836963adcd5a36e9b36650ce827a.nq.gz",
+        "blob/6d101807b8ff4d7b8ef37e78356a5fc4825a483d.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
